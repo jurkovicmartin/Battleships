@@ -2,6 +2,8 @@
 
 JavaScript, HTML and CSS Battleship game.
 
+The game was successfully deployed to a server, which was the main goal of this project.
+
 ## Modifications
 
 - All ships must be placed before start.
