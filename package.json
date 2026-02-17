@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kubowania/battleships.git"
+    "url": "git+https://github.com/jurkovicmartin/Battleships.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kubowania/battleships/issues"
+    "url": "https://github.com/jurkovicmartin/Battleships/issues"
   },
-  "homepage": "https://github.com/kubowania/battleships#readme",
+  "homepage": "https://github.com/jurkovicmartin/Battleships#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.22.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {
